@@ -47,6 +47,7 @@ Power BI used for Data modeling, visualization, and dashboard development
 Power Query used for Data cleaning and transformation 
 DAX used for KPI calculations and analytical measures 
 
+
 # Data Preparation and Analysis Workflow
 
 ### Step 1: Data Collection
@@ -67,7 +68,7 @@ Selected charts and tables based on the analytical questions, using filters to e
 ### Step 6: Dashboard Design
 Designed a single-page dashboard with a dark theme, football-inspired visuals, and consistent colors to improve readability and navigation.
 
-## 6. Dashboard Components
+# Dashboard Components
 
 | Visual | Analytical Purpose |
 |---|---|
@@ -81,15 +82,17 @@ Designed a single-page dashboard with a dark theme, football-inspired visuals, a
 | Stadium Distribution | Compare the number of scheduled matches across stadiums |
 | Total Teams Chart | Show the distribution of teams across the tournament format |
 
-## 7. Key Insights
+# Key Insights
 
-The dashboard is designed to help users identify:
 
-- Which countries have won the most World Cup titles.
-- How goal-scoring and attendance patterns have changed over time.
-- Which historical host countries recorded higher average attendance.
-- How the 2026 schedule is distributed across stages and stadiums.
-- How the expanded 2026 tournament differs from earlier editions.
+- **Brazil leads in World Cup titles:** Brazil holds the record with five championships, followed by Italy with four and Argentina with three.
+- **World Cup history spans 22 tournaments:** From 1930 to 2022, the tournament recorded 964 matches and 2,720 goals, highlighting its long-standing global significance.
+- **Attendance reflects the tournament's global appeal:** The historical average attendance across the tournaments analyzed is approximately 42,729 spectators per match.
+- **The 2026 tournament introduces an expanded format:** With 48 teams and 104 scheduled matches, the tournament will feature more matches than previous editions.
+- **Group-stage matches dominate the 2026 schedule:** The group stage accounts for 72 of the 104 matches, representing approximately 69.2% of the tournament.
+- **Three countries will host the 2026 World Cup:** Canada, Mexico, and the United States will jointly host the tournament, marking a multi-country hosting arrangement.
+- **Matches are distributed across multiple stadiums:** The stadium distribution visual shows how the 2026 fixtures are allocated across the tournament's venues.
+
 
 ## 8. Interactive Features
 
@@ -107,8 +110,4 @@ These filters allow users to focus on specific tournaments, countries, or match 
 This project demonstrates how historical sports data and an upcoming tournament schedule can be transformed into an interactive analytical dashboard. It combines data preparation, DAX measures, data visualization, and dashboard design to communicate football history and tournament structure in an accessible format.
 
 The project also strengthened my practical skills in Power BI, data modeling, analytical storytelling, and presenting data-driven insights.
-
-## 10. Disclaimer
-
-This is an independent educational and analytical project. It is not affiliated with or endorsed by FIFA. Historical records and the 2026 schedule are based on publicly available datasets and may require verification against official sources.
 
