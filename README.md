@@ -94,7 +94,7 @@ Designed a single-page dashboard with a dark theme, football-inspired visuals, a
 - **Matches are distributed across multiple stadiums:** The stadium distribution visual shows how the 2026 fixtures are allocated across the tournament's venues.
 
 
-## 8. Interactive Features
+# Interactive Features
 
 Users can explore the dashboard through filters for:
 
@@ -105,9 +105,10 @@ Users can explore the dashboard through filters for:
 
 These filters allow users to focus on specific tournaments, countries, or match periods.
 
-## 9. Conclusion
+# Conclusion
 
-This project demonstrates how historical sports data and an upcoming tournament schedule can be transformed into an interactive analytical dashboard. It combines data preparation, DAX measures, data visualization, and dashboard design to communicate football history and tournament structure in an accessible format.
+This project provides an overview of the FIFA World Cup's historical achievements and the structure of the 2026 tournament through interactive data visualization. The analysis highlights Brazil's record as the most successful nation, the evolution of goals and attendance over time, and the expansion of the tournament to 48 teams and 104 matches in 2026.
 
-The project also strengthened my practical skills in Power BI, data modeling, analytical storytelling, and presenting data-driven insights.
+By combining historical records with the upcoming tournament schedule, the dashboard makes complex football data easier to understand and explore. The project also demonstrates the value of data analytics in uncovering trends, communicating insights, and supporting informed interpretation of sports data.
 
+Through this project, I strengthened my skills in data cleaning, data modeling, DAX, Power BI visualization, and analytical storytelling.
