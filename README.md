@@ -1,6 +1,6 @@
 # FIFA World Cup Analytics Dashboard (1930–2026)
 
-##  Project Overview
+#  Project Overview
 
 The FIFA World Cup Analytics Dashboard is an interactive Power BI project that explores the history, performance, and evolution of the FIFA Men's World Cup from 1930 to 2026.
 
@@ -41,14 +41,13 @@ The schedule covers the expanded 48-team tournament, comprising 104 matches acro
 
 # Tools Used
 
-| Tool | Purpose |
-|---|---|
-| Microsoft Excel | Data storage, inspection, and preparation |
-| Power BI | Data modeling, visualization, and dashboard development |
-| Power Query | Data cleaning and transformation |
-| DAX | KPI calculations and analytical measures |
 
-## 5. Data Preparation and Analysis Workflow
+Microsoft Excel used for Data storage, inspection, and preparation 
+Power BI used for Data modeling, visualization, and dashboard development 
+Power Query used for Data cleaning and transformation 
+DAX used for KPI calculations and analytical measures 
+
+# Data Preparation and Analysis Workflow
 
 ### Step 1: Data Collection
 Imported the historical World Cup dataset and 2026 match schedule into Power BI from Excel.
