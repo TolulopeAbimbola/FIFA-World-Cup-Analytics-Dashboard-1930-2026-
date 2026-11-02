@@ -66,7 +66,7 @@ Created measures for total World Cup titles, historical matches, goals, average 
 Selected charts and tables based on the analytical questions, using filters to enable interactive exploration.
 
 ### Step 6: Dashboard Design
-Designed a single-page dashboard with a dark theme, football-inspired visuals, and consistent colors to improve readability and navigation.
+<img width="1916" height="982" alt="Image" src="https://github.com/user-attachments/assets/720cde91-e888-446d-8ce9-3a3dc6228857" />
 
 # Dashboard Components
 
@@ -112,3 +112,5 @@ This project provides an overview of the FIFA World Cup's historical achievement
 By combining historical records with the upcoming tournament schedule, the dashboard makes complex football data easier to understand and explore. The project also demonstrates the value of data analytics in uncovering trends, communicating insights, and supporting informed interpretation of sports data.
 
 Through this project, I strengthened my skills in data cleaning, data modeling, DAX, Power BI visualization, and analytical storytelling.
+
+# AUTHOR: ABIMBOLA TOLULOPE
